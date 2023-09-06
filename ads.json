@@ -12,6 +12,9 @@
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": []
+        "noDirectLaunch": [],
+        "configs": {
+            "co.beta.login": {}
+        }
     }
 }
