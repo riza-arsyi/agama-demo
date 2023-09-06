@@ -1,1 +1,17 @@
-{}
+{
+    "demo": {
+        "projectName": "demo",
+        "description": "test",
+        "type": "community",
+        "author": "riza-arsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/riza-arsyi/agama-demo",
+        "githubUri": "https://github.com/riza-arsyi/agama-demo",
+        "license": "MIT",
+        "lastUpdated": "1693963687944",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": []
+    }
+}
